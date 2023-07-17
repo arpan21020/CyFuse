@@ -1,12 +1,22 @@
 [
     {
-        "id":1,
+        "id":0,
         "image":"TeamImages/img.JPG",
         "name":"Arpan Kumar",
         "designation":"Developer",
         "mail":"",
         "instagram":"https://www.instagram.com/ak001010000110/",
         "linkedin":"https://www.linkedin.com/in/arpan-kumar-98124b277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ9PAzvcBRsCTmMfipNzbeA%3D%3D"
+
+    },
+    {
+        "id":1,
+        "image":"TeamImages/img9.jpeg",
+        "name":"Deepanshu Dabas",
+        "designation":"Events and Projects",
+        "mail":"",
+        "instagram":"https://www.instagram.com/deepanshu.0402/",
+        "linkedin":"https://www.linkedin.com/in/deepanshu-dabas-29318b222/"
 
     },
     {
