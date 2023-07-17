@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "image":"TeamImages/img.JPG",
+        "name":"Arpan Kumar",
+        "designation":"Developer",
+        "mail":"",
+        "instagram":"https://www.instagram.com/ak001010000110/",
+        "linkedin":"https://www.linkedin.com/in/arpan-kumar-98124b277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ9PAzvcBRsCTmMfipNzbeA%3D%3D"
+
+    },
+    {
+        "id":2,
+        "image":"TeamImages/img2.JPG",
+        "name":"Niharika",
+        "designation":"Events and Projects",
+        "mail":"",
+        "instagram":"https://www.instagram.com/niharika_3.14/",
+        "linkedin":"https://www.linkedin.com/in/niharika-singh-98b027221/"
+
+    },
+    {
+        "id":3,
+        "image":"TeamImages/img3.JPG",
+        "name":"Daksh Pandey",
+        "designation":"PR",
+        "mail":"",
+        "instagram":"https://instagram.com/daksh.__.pandey?igshid=NGExMmI2YTkyZg==",
+        "linkedin":"https://www.linkedin.com/in/daksh-pandey-53529b239"
+
+    },
+    {
+        "id":4,
+        "image":"TeamImages/img4.JPG",
+        "name":"Deepanshu Aluria",
+        "designation":"Events and Projects",
+        "mail":"",
+        "instagram":"https://instagram.com/deepanshu.aluria?igshid=MzNlNGNkZWQ4Mg==",
+        "linkedin":"https://www.linkedin.com/in/deepanshu-aluria-9b131924b"
+
+    },
+    {
+        "id":5,
+        "image":"TeamImages/img5.JPG",
+        "name":"Ankit Raj ",
+        "designation":"Design and Content",
+        "mail":"",
+        "instagram":"https://www.instagram.com/ankitraj6651/",
+        "linkedin":"https://www.linkedin.com/in/ankit-raj-31a975230/"
+
+    },
+    {
+        "id":6,
+        "image":"TeamImages/img6.JPG",
+        "name":"Harshvardhan Chourasia ",
+        "designation":"PR",
+        "mail":"",
+        "instagram":"https://www.instagram.com/harsh__3101_/",
+        "linkedin":"https://www.linkedin.com/in/harshvardhan-chourasia-03a640265/"
+
+    },
+    {
+        "id":7,
+        "image":"TeamImages/img7.JPG",
+        "name":"Arjun Moitra ",
+        "designation":"Design and Content",
+        "mail":"",
+        "instagram":"https://www.instagram.com/@r.junnnnn/",
+        "linkedin":"https://www.linkedin.com/in/arjun-moitra-568068278/"
+
+    },
+    {
+        "id":8,
+        "image":"TeamImages/img8.JPG",
+        "name":"Akash Maurya",
+        "designation":"Design and Content",
+        "mail":"",
+        "instagram":"https://www.instagram.com/akashmaurya_21009/",
+        "linkedin":"https://www.linkedin.com/in/akash21009"
+        
+
+    }
+]
