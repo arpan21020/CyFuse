@@ -11,7 +11,7 @@
     },
     {
         "id":2,
-        "image":"TeamImages/img2.JPG",
+        "image":"TeamImages/img2.jpg",
         "name":"Niharika",
         "designation":"Events and Projects",
         "mail":"",
@@ -21,7 +21,7 @@
     },
     {
         "id":3,
-        "image":"TeamImages/img3.JPG",
+        "image":"TeamImages/img3.jpg",
         "name":"Daksh Pandey",
         "designation":"PR",
         "mail":"",
@@ -31,7 +31,7 @@
     },
     {
         "id":4,
-        "image":"TeamImages/img4.JPG",
+        "image":"TeamImages/img4.jpg",
         "name":"Deepanshu Aluria",
         "designation":"Events and Projects",
         "mail":"",
@@ -41,7 +41,7 @@
     },
     {
         "id":5,
-        "image":"TeamImages/img5.JPG",
+        "image":"TeamImages/img5.jpg",
         "name":"Ankit Raj ",
         "designation":"Design and Content",
         "mail":"",
@@ -51,7 +51,7 @@
     },
     {
         "id":6,
-        "image":"TeamImages/img6.JPG",
+        "image":"TeamImages/img6.jpg",
         "name":"Harshvardhan Chourasia ",
         "designation":"PR",
         "mail":"",
@@ -61,7 +61,7 @@
     },
     {
         "id":7,
-        "image":"TeamImages/img7.JPG",
+        "image":"TeamImages/img7.jpg",
         "name":"Arjun Moitra ",
         "designation":"Design and Content",
         "mail":"",
@@ -71,7 +71,7 @@
     },
     {
         "id":8,
-        "image":"TeamImages/img8.JPG",
+        "image":"TeamImages/img8.jpg",
         "name":"Akash Maurya",
         "designation":"Design and Content",
         "mail":"",
