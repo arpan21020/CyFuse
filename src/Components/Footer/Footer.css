@@ -43,8 +43,19 @@
     transition: all 0.1s ease-in-out 0.05s;
 }
 .footer .icons a i:hover{
-    color: #fff;
     transform: scale(3);
+}
+.footer .icons a #telegram:hover{
+    color: #038ce7;
+}
+.footer .icons a #insta:hover{
+    color: #d1006c;
+}
+.footer .icons a #twitter:hover{
+    color: #14bff3;
+}
+.footer .icons a #linkedin:hover{
+    color: #001bca;
 }
 .footer .copyrights{
     background-color: black;
