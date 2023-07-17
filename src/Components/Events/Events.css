@@ -13,6 +13,13 @@
     background-repeat: no-repeat;
     position: relative;
 }
+@media (max-width:760px) {
+    .events-top h1{
+        font-size: 5em;
+    }
+    
+    
+}
 .sub-heading{
     color: #fff;
     font-size: 3em;
@@ -22,6 +29,12 @@
     width: 70%;
     margin: 1em auto 1em auto;
     padding: 0.2em;
+}
+@media (max-width:760px) {
+    .sub-heading h2{
+        font-size: 1em;
+    }
+    
 }
 .sessions .box{
     display: block;

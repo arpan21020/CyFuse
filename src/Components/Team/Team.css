@@ -26,6 +26,13 @@
     justify-content: center;
     color: #ffffff;
 }
+@media (max-width:1120px) {
+    
+    .team-top h1{
+        font-size: 5em;
+    }
+    
+}
 .teamMemberscontainer .wrapper{
     display: grid;
     grid-template-columns: repeat(4,1fr);
@@ -35,6 +42,24 @@
     padding: 2em;
 
 
+}
+@media (max-width:1000px) {
+    .teamMemberscontainer .wrapper{
+        grid-template-columns: repeat(3,1fr);
+    }
+    
+}
+@media (max-width:740px) {
+    .teamMemberscontainer .wrapper{
+        grid-template-columns: repeat(2,1fr);
+    }
+    
+}
+@media (max-width:475px) {
+    .teamMemberscontainer .wrapper{
+        grid-template-columns: repeat(1,1fr);
+    }
+    
 }
 .teamMemberscontainer .box{
     background: linear-gradient(360deg,#2926265b 0%,#151717 0%,#080a07 100%);
