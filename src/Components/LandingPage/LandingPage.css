@@ -45,11 +45,14 @@ h1{
     top:20%;
 }
 .aboutsec{
-    width: 100wh;
+    width: 100%;
     padding: 2em;
+    display: flex;
+    justify-content: center;
 }
 
 .aboutsec .content{
+    width: 80%;
     border: 0.1em solid #fff;
     padding: 2em;
     background-color: hsla(0, 6%, 7%, 0.93);
@@ -57,7 +60,7 @@ h1{
 } 
 .aboutsec .content h2{
     color: #fff;
-    font-size: 5em;
+    font-size: 3em;
     font-family: Imported;
     text-transform: uppercase;
     
@@ -65,7 +68,7 @@ h1{
 }
 .aboutsec .content p{
     color: #fff;
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: Imported;
     margin: 1em 0em 1em 0em;
     
