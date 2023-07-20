@@ -15,7 +15,7 @@ const Footer=()=>{
             </div>
             <div className="copyrights">
              <p>© 2021 CyFuse. All rights reserved.</p>
-             <p>Design and Developed by <a href="https://github.com/arpan21020?tab=repositories" target="_blank">Arpan Kumar</a></p>
+             <p>Designed and Developed by <a href="https://github.com/arpan21020?tab=repositories" target="_blank">Arpan Kumar</a></p>
             </div>
             
         </div>
