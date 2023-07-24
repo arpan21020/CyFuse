@@ -1,22 +1,27 @@
 import './Team.css'
 
 import membersList from './membersList.json'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
+import { useEffect } from 'react';
 
 
 const Team=()=>{
-    
+    useEffect(()=>{
+        AOS.init({duration:2000})
+    },[])
     return(
         <>
         <div className="team-top">
-            <h1>Meet the Team</h1>
+            <h1 data-aos="fade-left">Meet the Team</h1>
         </div>
         <div className="teamMemberscontainer">
         <div className="wrapper" >
             {
         membersList.map(record=>{
             return(
-                <div className="box" key={record.id}>
+                <div className="box"  key={record.id}>
             <div className="img-area" style={{ 
                 backgroundImage: `url(${record.image})` }}>
             </div>

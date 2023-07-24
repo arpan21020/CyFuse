@@ -10,7 +10,10 @@ export class ListItems extends Component {
   }
 
   handleMouseEnter = () => {
-    this.setState({ isHovered: true });
+    // this.setState({ isHovered: true });
+    setTimeout(() => {
+      this.setState({ isHovered: true });
+    }, 500);
   };
 
   handleMouseLeave = () => {

@@ -1,16 +1,21 @@
-import vid from "../Images/backimg4.jpg"
 import './LandingPage.css'
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
+
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
 const LandingPage=()=>{
-   
+   useEffect(()=>{
+        AOS.init({duration:2000});
+   },[]);
     return(
       <>
        <div className="landing">
            
-           <h1>CyFuse</h1>
+           <h1 data-aos="fade-left">CyFuse</h1>
             </div>
             <div className="aboutsec">
-                <div className="content">
+                <div className="content" data-aos="fade-up">
                         <h2>
                             About
                         </h2>

@@ -26,6 +26,9 @@
     justify-content: center;
     color: #ffffff;
 }
+.team-top h1{
+    font-size: 7em;
+}
 @media (max-width:1120px) {
     
     .team-top h1{

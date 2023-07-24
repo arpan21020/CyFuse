@@ -13,6 +13,9 @@
     background-repeat: no-repeat;
     position: relative;
 }
+.top h1{
+    font-size: 8em;
+}
 @media (max-width:760px) {
     .top h1{
         font-size: 5em;

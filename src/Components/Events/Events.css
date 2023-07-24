@@ -13,6 +13,9 @@
     background-repeat: no-repeat;
     position: relative;
 }
+.events-top h1{
+    font-size: 8em;
+}
 @media (max-width:760px) {
     .events-top h1{
         font-size: 5em;
@@ -39,6 +42,6 @@
 .sessions .box{
     display: block;
     width: 90%;
-    margin: 0em auto 0em auto;
+    margin: 5em auto 0em auto;
     text-align: center;
 }
