@@ -1,10 +1,27 @@
 [
     {
+        "id":3,
+        "image":"TeamImages/img3.jpg",
+        "name":"Daksh Pandey",
+        "designation":"Coordinator",
+        "instagram":"https://instagram.com/daksh.__.pandey?igshid=NGExMmI2YTkyZg==",
+        "linkedin":"https://www.linkedin.com/in/daksh-pandey-53529b239"
+
+    },
+    {
+        "id":-1,
+        "image":"TeamImages/img10.jpg",
+        "name":"Shivam Yadav",
+        "designation":"Coordinator",
+        "instagram":"https://www.instagram.com/shivam_yqdqv/",
+        "linkedin":"https://www.linkedin.com/in/shivam-yadav101/"
+
+    },
+    {
         "id":0,
         "image":"TeamImages/img.JPG",
         "name":"Arpan Kumar",
         "designation":"Developer",
-        "mail":"",
         "instagram":"https://www.instagram.com/ak001010000110/",
         "linkedin":"https://www.linkedin.com/in/arpan-kumar-98124b277?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ9PAzvcBRsCTmMfipNzbeA%3D%3D"
 
@@ -14,7 +31,7 @@
         "image":"TeamImages/img9.jpeg",
         "name":"Deepanshu Dabas",
         "designation":"Events and Projects",
-        "mail":"",
+        
         "instagram":"https://www.instagram.com/deepanshu.0402/",
         "linkedin":"https://www.linkedin.com/in/deepanshu-dabas-29318b222/"
 
@@ -24,27 +41,18 @@
         "image":"TeamImages/img2.jpg",
         "name":"Niharika",
         "designation":"Events and Projects",
-        "mail":"",
+        
         "instagram":"https://www.instagram.com/niharika_3.14/",
         "linkedin":"https://www.linkedin.com/in/niharika-singh-98b027221/"
 
     },
-    {
-        "id":3,
-        "image":"TeamImages/img3.jpg",
-        "name":"Daksh Pandey",
-        "designation":"PR",
-        "mail":"",
-        "instagram":"https://instagram.com/daksh.__.pandey?igshid=NGExMmI2YTkyZg==",
-        "linkedin":"https://www.linkedin.com/in/daksh-pandey-53529b239"
-
-    },
+    
     {
         "id":4,
         "image":"TeamImages/img4.jpg",
         "name":"Deepanshu Aluria",
         "designation":"Events and Projects",
-        "mail":"",
+        
         "instagram":"https://instagram.com/deepanshu.aluria?igshid=MzNlNGNkZWQ4Mg==",
         "linkedin":"https://www.linkedin.com/in/deepanshu-aluria-9b131924b"
 
@@ -54,7 +62,7 @@
         "image":"TeamImages/img5.jpg",
         "name":"Ankit Raj ",
         "designation":"Design and Content",
-        "mail":"",
+        
         "instagram":"https://www.instagram.com/ankitraj6651/",
         "linkedin":"https://www.linkedin.com/in/ankit-raj-31a975230/"
 
@@ -64,7 +72,7 @@
         "image":"TeamImages/img6.jpg",
         "name":"Harshvardhan Chourasia ",
         "designation":"PR",
-        "mail":"",
+        
         "instagram":"https://www.instagram.com/harsh__3101_/",
         "linkedin":"https://www.linkedin.com/in/harshvardhan-chourasia-03a640265/"
 
@@ -74,7 +82,7 @@
         "image":"TeamImages/img7.jpg",
         "name":"Arjun Moitra ",
         "designation":"Design and Content",
-        "mail":"",
+        
         "instagram":"https://www.instagram.com/@r.junnnnn/",
         "linkedin":"https://www.linkedin.com/in/arjun-moitra-568068278/"
 
@@ -84,10 +92,67 @@
         "image":"TeamImages/img8.jpg",
         "name":"Akash Maurya",
         "designation":"Design and Content",
-        "mail":"",
+        
         "instagram":"https://www.instagram.com/akashmaurya_21009/",
         "linkedin":"https://www.linkedin.com/in/akash21009"
         
 
+    },
+    {
+        "id":9,
+        "image":"TeamImages/img11.jpg",
+        "name":"Udit",
+        "designation":"Events and Projects",
+        
+        "instagram":"https://www.instagram.com/udit64k/",
+        "linkedin":"https://www.linkedin.com/in/Udit IIITD"
+        
+
+    },
+    {
+        "id":10,
+        "image":"TeamImages/img12.jpg",
+        "name":"Avinash Barala",
+        "designation":"Events and Projects",
+        
+        "instagram":"https://www.instagram.com/AvinashBarala2004/",
+        "linkedin":"https://www.linkedin.com/in/avinash-barala-573768283/"
+        
+
+    },
+    {
+        "id":11,
+        "image":"TeamImages/img13.jpg",
+        "name":"Mohit Nagar",
+        "designation":"PR",
+        
+        "instagram":"https://www.instagram.com/mohit_ng_/",
+        "linkedin":"https://www.linkedin.com/in/mohit-nagar-95476822b"
+        
+
+    },
+    {
+        "id":12,
+        "image":"",
+        "name":"Surat Sathi Samanta",
+        "designation":"Events and Projects",
+        
+        "instagram":"https://www.instagram.com/kiddo._.42069/",
+        "linkedin":"https://www.linkedin.com/in/surat-sathi-samanta-01b973263/"
+        
+
+    },
+    {
+        "id":13,
+        "image":"",
+        "name":"Harsh Kumar Swami",
+        "designation":"Events and Projects",
+        
+        "instagram":"https://www.instagram.com/harshswami6035/",
+        "linkedin":"https://www.linkedin.com/in/harsh-swami-16344b226/"
+        
+
     }
+
+
 ]
