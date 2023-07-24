@@ -1,9 +1,10 @@
-import { Link } from "react-router-dom";
+import { Link,useLocation } from "react-router-dom";
 import './Header.css'
 import React, { useState, useEffect } from 'react';
 const Header=(props)=>{
     const [isNavbarVisible, setIsNavbarVisible] = useState(false);
-    const [selectedOption, setSelectedOption] = useState('option1');
+    const [selectedOption, setSelectedOption] = useState("");
+    const location = useLocation();
 
     const handleOptionClick = (option) => {
       setSelectedOption(option);
@@ -18,12 +19,26 @@ const Header=(props)=>{
           setIsNavbarVisible(false);
         }
       };
-  
+      
       window.addEventListener('scroll', handleScroll);
       return () => {
         window.removeEventListener('scroll', handleScroll);
       };
+      
     }, []);
+
+    useEffect(() => {
+      const currentPath = location.pathname;
+      if (currentPath === '/') {
+        setSelectedOption('option1');
+      } else if (currentPath === '/about') {
+        setSelectedOption('option2');
+      } else if (currentPath === '/events') {
+        setSelectedOption('option3');
+      } else if (currentPath === '/team') {
+        setSelectedOption('option4');
+      }
+    }, [location]);
     return(
       
         
