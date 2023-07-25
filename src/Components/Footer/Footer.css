@@ -59,6 +59,7 @@
 }
 .footer .copyrights{
     background-color: black;
+    padding-bottom: 1em;
 }
 .footer .copyrights p a{
     text-decoration: none;
