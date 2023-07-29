@@ -40,7 +40,7 @@
     margin: 0 1.5em;
     color: rgb(238, 238, 247);
     transform: scale(2);
-    transition: all 0.1s ease-in-out 0.05s;
+    transition: all 0.5s ease-in-out ;
 }
 .footer .icons a i:hover{
     transform: scale(3);
@@ -64,4 +64,8 @@
 .footer .copyrights p a{
     text-decoration: none;
     color: #0011ff;
+}
+.footer .copyrights p a:hover{
+
+    text-decoration: underline;
 }
